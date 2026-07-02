@@ -1,2 +1,2 @@
 # Europa
-This folder contains python code used for my PSLU MPhil P3 Project "ENERGY SUPPLY ON EUROPA DURING THE SUN’S RED GIANT PHASE: ENOUGH TO MELT ITS ICE?"
+This folder contains python code used for my PSLU MPhil P3 Project "Energy Supply on Europa during the Sun's Red Giant Phase - Enough to melt its Ice?"
