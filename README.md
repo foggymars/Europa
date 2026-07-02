@@ -3,9 +3,9 @@ This folder contains python code used for my PSLU MPhil P3 Project "Energy Suppl
 
 The code runs across two notebooks.
 
-(1): MIST, Tidal Heating Evaluation, HZ Plot, Jeans Escape calculations 
+#1: MIST, Tidal Heating Evaluation, HZ Plot, Jeans Escape calculations 
 
-(2): 1D Temperature Model, Albedo Plot, Thermal Profiles (Isotherm vs Linear)
+#2: 1D Temperature Model, Albedo Plot, Thermal Profiles (Isotherm vs Linear)
 
 
 
