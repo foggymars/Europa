@@ -12,3 +12,8 @@ The code runs across two notebooks.
 Why does my coding run across two notebooks?
 
 I wish I knew. (Insert quote about new beginnings)
+
+
+###
+
+I have also attached a "ROUGH work" (focus on rough) sheet showing some sketches of light attenuation which plays a role in the exponential decay of Albedo.
